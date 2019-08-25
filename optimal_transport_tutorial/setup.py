@@ -2,9 +2,9 @@ from distutils.core import setup
 
 
 setup(
-    name="optimal_transport",
+    name="optimaltransport",
     version="0.1",
     packages=[
-        "optimal_transport",
+        "optimaltransport",
     ]
 )
