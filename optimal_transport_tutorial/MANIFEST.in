@@ -1,2 +1,2 @@
-include optimaltransport/data/*.pickle
-include optimaltransport/data/*.jpg
+include data/*.pickle
+include data/*.jpg
