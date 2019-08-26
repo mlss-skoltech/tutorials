@@ -51,5 +51,5 @@ You can save your notebook in your Google Drive or simply download it, for that 
 If you would like to see more tutorials regarding Google Colaboratory have a look at this notebook: https://colab.research.google.com/notebooks/welcome.ipynb
 
 # Contact 
-If you have any questions regarding this githup repository, please write to me at N.Mazyavkina@skoltech.ru 
+If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at N.Mazyavkina@skoltech.ru 
 
