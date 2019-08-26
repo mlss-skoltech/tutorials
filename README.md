@@ -14,6 +14,8 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
 
 Here are the instructions on how open the notebooks in Colaboratory (tested on Google Chrome, version 76.0.):
 * First go to https://colab.research.google.com/github/mlss-skoltech/
+* In the pop-up window, sign-in into your GitHub account 
+![image0](/img/img0.png)
 * In the opened window, choose the notebook correspodning to the tutorial 
 ![image1](/img/img1.png)
 * The selected notebook will open, now make sure that you are signed-in into your Google account
