@@ -5,6 +5,7 @@ This repository will contain all of the materials needed for MLSS tutorials.
 
 ## The list of the current tutorials published (will be updated with time):
 * DAY-1 (26.08): François-Pierre Paty, Marco Cuturi - Optimal Transport: https://github.com/mlss-skoltech/tutorials/tree/master/optimal_transport_tutorial
+* DAY-5 (28.08): Joris Mooij - Causality: https://github.com/mlss-skoltech/tutorials/tree/master/causality
 * DAY-5 (28.08): Ivan Nazarov, Yarin Gal - Bayesian Deep Learning: https://github.com/mlss-skoltech/tutorials/tree/master/bayesian_deep_learning
 
 # Running the tutorials on Google Colaboratory:
