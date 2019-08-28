@@ -1,0 +1,5 @@
+/*
+!.gitignore
+!gan-samples.npz
+!stopwords-*
+!transcripts.tar.bz2
