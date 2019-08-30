@@ -7,8 +7,8 @@ This repository will contain all of the materials needed for MLSS tutorials.
 * DAY-1 (26.08): François-Pierre Paty, Marco Cuturi - Optimal Transport: https://github.com/mlss-skoltech/tutorials/tree/master/optimal_transport_tutorial
 * DAY-2 (27.08): Alexey Artemov, Justin Solomon - Geometric Techniques in ML: https://github.com/mlss-skoltech/tutorials/tree/master/geometric_techniques_in_ML
 * DAY-4 (29.08): Yermek Kapushev, Arthur Gretton - Kernels: https://github.com/mlss-skoltech/tutorials/tree/master/kernels
-* [<b>Updated 28.08</b>]DAY-5 (28.08): Joris Mooij - Causality: https://github.com/mlss-skoltech/tutorials/tree/master/causality
-* [<b>Updated 30.08</b>]DAY-5 (28.08): Ivan Nazarov, Yarin Gal - Bayesian Deep Learning: https://github.com/mlss-skoltech/tutorials/tree/master/bayesian_deep_learning
+* [<b>Updated 28.08</b>]DAY-5 (30.08): Joris Mooij - Causality: https://github.com/mlss-skoltech/tutorials/tree/master/causality
+* [<b>Updated 30.08</b>]DAY-5 (30.08): Ivan Nazarov, Yarin Gal - Bayesian Deep Learning: https://github.com/mlss-skoltech/tutorials/tree/master/bayesian_deep_learning
 
 # Running the tutorials on Google Colaboratory:
 Most of the tutorials were created using Jupyter Notebooks. In order to reduce the time spent on installing various software, we have made sure that all of the tutorials are Google Colaboratory friendly. 
